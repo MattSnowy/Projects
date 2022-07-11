@@ -1,0 +1,60 @@
+.box1 {
+  display: center;
+  text-align: left;
+  width: 642px;
+  height: 452px;
+  margin: 329.3px 683.1px;
+  color: white;
+  position: absolute;
+  top: 0px;
+  left: auto;
+  background-image: url(https://i.gyazo.com/fcf5ebb4ce1e3c28080e9fe599694c59.png);
+  background-size: 642px 452px;
+}
+
+.div1 {
+  margin: 30px 40px;
+}
+
+.h1 {
+  line-height: 20px;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.p1 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+body {
+  background-color: black;
+  font-family: "Jost", sans-serif;
+}
+
+.button1,
+.button2 {
+  display: inline-block;
+  text-align: center;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.02rem;
+  padding: 0px 23px;
+  height: 55px;
+  border: 0px solid white;
+  margin-top: 230px;
+}
+
+.button1 {
+  font-weight: 500;
+  color: black;
+  background-color: white;
+  margin-left: 30px;
+}
+
+.button2 {
+  border: 0px solid white;
+  color: white;
+  background-color: transparent;
+  border: white solid 2px;
+}

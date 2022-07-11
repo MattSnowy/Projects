@@ -1,0 +1,61 @@
+.box1 {
+  text-align: left;
+  font-size: 38px;
+  font-weight: 400;
+  width: 517px;
+  height: 316px;
+  margin: 329.3px 683.1px;
+  color: black;
+  background-color: white;
+  position: absolute;
+  top: 0px;
+  left: auto;
+}
+
+.design {
+  color: rgb(61, 93, 225);
+}
+
+h1 {
+  text-align: left;
+  font-size: 28px;
+  font-weight: 400;
+  color: black;
+  margin: 20px 30px;
+  display: block;
+}
+
+.p2 {
+  font-family: "Noto Sans JP", sans-serif;
+  line-height: 32px;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 0px 30px;
+  margin: auto;
+  border: 0px solid black;
+  color: rgb(144, 159, 185);
+}
+
+body {
+  background-color: black;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.container {
+  color: rgb(144, 159, 185);
+  line-height: 32px;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 400;
+  display: flex;
+  gap: 65px;
+  margin-left: 30px;
+  margin-bottom: 150px;
+}
+
+.color1,
+.color2,
+.color3 {
+  color: black;
+}

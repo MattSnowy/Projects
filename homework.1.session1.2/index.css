@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  text-align: left;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.box2 {
+  display: center;
+  text-align: left;
+  width: 548px;
+  height: 365px;
+  margin: 329.3px 683.1px;
+  color: black;
+  background-color: white;
+  position: absolute;
+  top: 0px;
+  left: auto;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 28px;
+  margin: 20px 30px;
+}
+
+.color {
+  color: rgb(85, 212, 163);
+}
+
+p {
+  margin-top: 0px;
+  font: 28px;
+  font-weight: 500;
+  margin: 20px 30px;
+  color: rgb(144, 159, 185);
+  letter-spacing: 0.02em;
+  line-height: 25px;
+}
+
+/* .p1,
+    .p2 {
+    text-align: center;
+    margin-top: 550px;
+    display: inline-block;
+    color: rgb(85, 212, 163);
+    font-weight: 600;
+    font-size: 16px;
+    } */
+
+.p1,
+.p2,
+.p3,
+.p4 {
+  margin-top: 0px;
+  font: 25px;
+  font-weight: 600;
+  margin: 20px 30px;
+  color: rgb(85, 212, 163);
+  letter-spacing: 0.02em;
+  line-height: 25px;
+}
